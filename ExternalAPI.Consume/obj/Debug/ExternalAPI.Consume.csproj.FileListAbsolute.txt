@@ -1,0 +1,14 @@
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\bin\Debug\ExternalAPI.Consume.exe.config
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\bin\Debug\ExternalAPI.Consume.exe
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\bin\Debug\ExternalAPI.Consume.pdb
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\obj\Debug\ExternalAPI.Consume.csproj.CoreCompileInputs.cache
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\obj\Debug\ExternalAPI.Consume.exe
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\obj\Debug\ExternalAPI.Consume.pdb
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\bin\Debug\Api.Client.dll
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\bin\Debug\System.Net.Http.Formatting.dll
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\bin\Debug\Newtonsoft.Json.dll
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\bin\Debug\Api.Client.pdb
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\bin\Debug\System.Net.Http.Formatting.xml
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\bin\Debug\Newtonsoft.Json.xml
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\obj\Debug\ExternalAPI.Consume.csprojAssemblyReference.cache
+C:\Priyank\MyWork\API_External\ExternalAPI.Consume\ExternalAPI.Consume\obj\Debug\ExternalAPI.Consume.csproj.CopyComplete
